@@ -1,11 +1,11 @@
-package com.vodafone.vois.cucks.api;
+package com.trng.cucks.api;
 
 import java.util.Map;
 import java.util.Map.Entry;
 
 import org.junit.Assert;
 
-import com.vodafone.vois.cucks.api.constant.Constants;
+import com.trng.cucks.api.constant.Constants;
 
 import cucumber.api.DataTable;
 import cucumber.api.PendingException;
